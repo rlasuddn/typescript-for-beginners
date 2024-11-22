@@ -1,6 +1,6 @@
 # others
 index.ts
-test.ts
+*.ts
 .vscode
 
 # Logs
