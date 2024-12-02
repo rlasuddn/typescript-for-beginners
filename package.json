@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "build": "tsc"
+        "build": "tsc",
+        "dev": "nodemon --exec ts-node src/chain.ts"
     },
     "repository": {
         "type": "git",
@@ -17,6 +18,8 @@
     },
     "homepage": "https://github.com/rlasuddn/typescript-for-beginners#readme",
     "devDependencies": {
+        "@types/node": "^22.10.1",
+        "nodemon": "^3.1.7",
         "typescript": "^5.7.2"
     }
 }

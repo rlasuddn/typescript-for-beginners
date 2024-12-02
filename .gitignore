@@ -1,6 +1,6 @@
 # others
 index.ts
-*.ts
+assignment/*.ts
 .vscode
 build
 
