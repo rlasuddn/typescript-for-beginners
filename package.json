@@ -1,0 +1,22 @@
+{
+    "name": "typescript-for-beginners",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rlasuddn/typescript-for-beginners.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rlasuddn/typescript-for-beginners/issues"
+    },
+    "homepage": "https://github.com/rlasuddn/typescript-for-beginners#readme",
+    "devDependencies": {
+        "typescript": "^5.7.2"
+    }
+}
